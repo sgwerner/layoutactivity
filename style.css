@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  
+  span {
+    display: inline-block;
+  }
+  #icons{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  #diplo{
+    height: 200px;
+    font-style: italic;
+  }
+  #martin{
+    height: 200px;
+    width: 325px;
+    font-style: italic;
+  }
+  #avicii{
+    height: 200px;
+  }
+  #shm{
+    height: 200px;
+  }
+  a:link{
+    color: lightgoldenrodyellow;
+
+  }
+  a:visited{
+    color: lightgoldenrodyellow;
+  }
